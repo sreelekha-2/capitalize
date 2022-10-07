@@ -1,6 +1,6 @@
 //1.longest word
 
-const sentence = 'I woke up early today';
+const sentence = 'I woke up early today morning';
 // const sentence = 'I went straight to the beach';
 const arr = sentence.split(' ');
 
