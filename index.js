@@ -22,6 +22,6 @@ function longestWord(sentence) {
 console.log(longestWord(sentence));
 
 //2.capitalize
-console.log(arr);
+
 const newArr = arr.map((word) => word.charAt(0).toUpperCase() + word.slice(1));
 console.log(newArr.join(' '));
